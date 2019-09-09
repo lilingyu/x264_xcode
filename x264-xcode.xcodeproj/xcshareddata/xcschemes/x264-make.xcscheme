@@ -57,7 +57,7 @@
       </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "--qp 30 --threads 1 --profile main --frames 2 --psnr --deblock 1 --trellis 0 --bframes 0 -o BasketballDrill_832x480_50_x264.264 /Users/lilingyu/Documents/yuv/832x480/BasketballDrill_832x480_50.yuv"
+            argument = "--crf 30 --threads 1 --profile main --frames 10 --psnr --deblock 1 --trellis 0 --bframes 0 -o BasketballDrill_832x480_50_x264.264 /Users/lilingyu/Documents/yuv/832x480/BasketballDrill_832x480_50.yuv"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
